@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from  '../images/images.jpeg'
+import Image from  '../images/p-online.png'
 import Logo from '../images/logo1.jpeg'
 import { IoNotificationsOutline } from "react-icons/io5";
 // import background from '../images/background.jpeg';
